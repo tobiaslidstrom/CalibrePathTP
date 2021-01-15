@@ -3,7 +3,7 @@ Generates a tag based folder structure for exporting books to disc in the Calibr
 
 Path structure will look like this:
 ```
-Tag 1/Author/Series (3) - Title/Author - Title
+Tag/Author/Series (3) - Title/Author - Title.epub
 ```
 
 ## Setup
